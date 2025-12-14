@@ -31,8 +31,8 @@ Sudoku Solver ; Game built with Python and wxPython using Backtracking, MRV heur
 ## Sample output:
 
 ### Solver Mode:
-![Solver Mode] (screenshots/5_SolverMode_output.png)
-![Player Mode] (screenshots/7_PlayerMode_output.png)
+![Solver Mode](screenshots/5_SolverMode_output.png)
+![Player Mode](screenshots/7_PlayerMode_output.png)
 
 
 
